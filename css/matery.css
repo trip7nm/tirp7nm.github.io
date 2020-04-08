@@ -250,7 +250,8 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #d8b9c3 0%, #827397 100%);
+	opacity: 0.7;  /*透明效果 值范围 0~1，看情况自己修改*/
 }
 
 .text-color {
@@ -603,7 +604,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/*@-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -693,7 +694,7 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
-}
+}背景遮罩颜色渐变*/
 
 .index-card {
     margin-top: -10px;
