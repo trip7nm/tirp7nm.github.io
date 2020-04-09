@@ -250,7 +250,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #d8b9c3 0%, #827397 100%);
+    background-image: linear-gradient(to right, #8387a0 0%, #456699 100%);
 	opacity: 0.7;  /*透明效果 值范围 0~1，看情况自己修改*/
 }
 
@@ -397,11 +397,11 @@ header .side-nav .social-link {
 }
 
 .cover-btns a:hover {
-    border: 1px solid #f44336;
-    background-color: #f44336;
-    box-shadow: 0 14px 26px -12px rgba(233, 30, 99, 0.42),
-            0 4px 23px 0 rgba(0, 0, 0, 0.12),
-            0 8px 10px -5px rgba(233, 30, 99, 0.2);
+    border: 1px solid transparent;
+    background-color: transparent;
+    box-shadow: 0 14px 26px -12px rgba(55, 174, 230, 0.19),
+            0 4px 23px 0 rgba(125, 139, 204, 0.09),
+            0 8px 10px -5px rgba(30, 205, 233, 0.05);
 }
 
 .cover-btns a i {
