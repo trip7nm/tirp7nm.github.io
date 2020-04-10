@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<p>采用<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 开坑啦！<br>Mark-2020/4/8<br>主题是blinkfox大佬参与制作的<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">Matery</a><br>目前还有相当多的细节没有修改<br>等待下一个干劲满满的日子！</p><h2 id="さようなら！！"><a href="#さようなら！！" class="headerlink" title="さようなら！！"></a>さようなら！！</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      <categories>
+          
+          <category> 杂项 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -Hexo -Matery </tag>
+            
+        </tags>
       
     </entry>
     

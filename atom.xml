@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://trip14nm.gitee.io/"/>
-  <updated>2020-04-09T13:14:23.365Z</updated>
+  <updated>2020-04-10T03:27:29.052Z</updated>
   <id>http://trip14nm.gitee.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>初来乍到</title>
     <link href="http://trip14nm.gitee.io/2020/04/08/konnitiha/"/>
     <id>http://trip14nm.gitee.io/2020/04/08/konnitiha/</id>
-    <published>2020-04-08T00:26:34.917Z</published>
-    <updated>2020-04-09T13:14:23.365Z</updated>
+    <published>2020-04-08T04:07:45.000Z</published>
+    <updated>2020-04-10T03:27:29.052Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,10 @@
     </summary>
     
     
+      <category term="杂项" scheme="http://trip14nm.gitee.io/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+      <category term="-Hexo -Matery" scheme="http://trip14nm.gitee.io/tags/Hexo-Matery/"/>
     
   </entry>
   
